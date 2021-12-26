@@ -1,0 +1,12 @@
+1 Nguyễn A 1 2000-01-01 1 Lê Duẩn Đà Nẵng 0900000001 Nam
+2 TayLor Swift 1 2000-01-02 2 Lê  Vinh 0900000002 Nam
+3 Nguyễn C 2 2000-01-03 3 Lê Duẩn Quảng Trị 0900000003 Nam
+4 Nguyễn D 2 2000-01-04 4 Lê Duẩn Quảng Bình 0900000004 Nam
+5 Nguyễn E 3 2000-01-05 5 Lê Duẩn Quảng Nam 0900000005 Nữ
+7 Nguyễn G 4 2000-01-07 7 Lê Duẩn Hà Nội 0900000007 Nam
+8 Nguyễn H 4 2000-01-08 8 Lê Duẩn Hồ Chí Minh 0900000008 Nữ
+10 NguyenNguyen 1 2000-05-05 1LeDuan Danang 0905123456 Nam
+11 NguyenNguyen 1 2000-05-05 1LeDuan Danang 0905123456 Nam
+12 NguyenNguyen 1 2000-05-05 1LeDuan Danang 0905123456 Nam
+13 NguyenNguyen 1 2000-05-05 1LeDuan Danang 0905123456 Nam
+14 NguyenNguyen 1 2000-05-05 1LeDuan Danang 0905123456 Nam
